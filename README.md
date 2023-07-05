@@ -1,1 +1,1 @@
-"Readme file for vagrant exercises" 
+'Readme for vagrant exercises' 
