@@ -1,1 +1,1 @@
-ECHO is on.
+Vagrant directory readme file
